@@ -1,0 +1,4 @@
+simple-responsive-test-page
+===========================
+SIMPLE RESPONSIVE EXCERSISE TO CREATE A RESPONSIVE PAGE.
+-EXCERSISE CREATED BY SITESET STAFF
