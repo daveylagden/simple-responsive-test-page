@@ -1,0 +1,11 @@
+This page has been created to demonstrate how responsive web pages work. If you drag the browser window to make it smaller you will see how it resizes dynamically. If you view it with a tablet device or a mobile phone you will see how it repositions content to suit the device.
+
+This is the text content that appears in column one when the page is being viewed full size. When the page is resized this will appear in column one, top row in the mid-sized view and as the top item in the small (mobile) view.
+
+This is the text content that appears in column two when the page is being viewed full size. When the page is resized this will appear in column two, top row in the mid-sized view and as the second item in the small (mobile) view.
+
+This is the text content that appears in column three when the page is being viewed full size. When the page is resized this will appear in column one, second row in the mid-sized view and as the third item in the small (mobile) view.
+
+This is the text content that appears in column four when the page is being viewed full size. When the page is resized this will appear in column two, second row in the mid-sized view and as the fourth item in the small (mobile) view. 
+
+This is the text content that appears next to the large image of the cat in the full sized version of the page. When the page is re-sized to the mid-size view the cat picture will reduce in size and this text will stay to the right of it. In the small (mobile) view, this text will appear below the cat image.

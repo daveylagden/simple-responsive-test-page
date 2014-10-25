@@ -1,0 +1,22 @@
+General
+Content area width: 960px (to be centered horizontally on the page)
+Background colour: #f0f0f0
+Text color: #000000;
+Font: verdana (or arial/sans-serif if not available)
+
+Main Heading
+Font size: 2.2em
+
+Sub-headings 
+Font size: 1.2em
+
+Precis text (i.e. the first paragraph)
+Font size: 1.4em
+
+Other text
+Font size: 1.1em
+
+Borders
+Thickness: 1px
+Colour: #cccccc
+
